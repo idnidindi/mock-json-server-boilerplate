@@ -1,0 +1,5 @@
+# add to local .gitignore file
+
+src/_mockApis/*
+!src/_mockApis/generate-db.mjs
+!src/_mockApis/stores
